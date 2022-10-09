@@ -14,6 +14,9 @@ public class DemoApplication {
 		System.out.println("drugi komunikat");
 
 		System.out.println("trzeci");
+
+		System.out.println("trzeci");
+		System.out.println("trzeci");
 	}
 
 }
